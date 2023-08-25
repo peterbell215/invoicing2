@@ -8,6 +8,9 @@
       <Link href="/">Home</Link>
     </li>
     <li>
+      <Link href="/clients">Clients</Link>
+    </li>
+    <li>
       <Link href="/articles">Articles</Link>
     </li>
     <li>

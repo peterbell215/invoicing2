@@ -10,6 +10,8 @@ Rails.application.routes.draw do
   end
 
   resources :articles
+  resources :clients
+
   root "static#home"
 
   # static pages

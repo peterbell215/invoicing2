@@ -1,7 +1,7 @@
 {
-  "name": "irvst-app2",
-  "version": "1.0.0",
-  "description": "Sample IRVST app",
+  "name": "Invoicing",
+  "version": "0.0.0",
+  "description": "Invoicing for Katy",
   "main": "index.js",
   "repository": "git@github.com:planetaska/irvst-app2.git",
   "author": "aska",
